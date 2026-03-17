@@ -1,0 +1,7 @@
+*.apkg
+*.anki2
+*.anki21
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache
+*.log
