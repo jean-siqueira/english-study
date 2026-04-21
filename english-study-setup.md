@@ -62,7 +62,7 @@ cat > README.md << 'EOF'
 **Method:** Mairo Vergara (CIMV) + Anki + Daily output practice
 
 ## Current Status
-- Anki cards: ~3000
+- Anki cards: 1.794 (98% mature)
 - Backlog: reducing
 - Daily study: 30 min
 
@@ -176,7 +176,7 @@ You are my English learning assistant. Here is my context:
 - Goal: Fluency for work and career
 - Method: Mairo Vergara (CIMV) + Anki spaced repetition
 - Daily time: 30 minutes
-- Tools: Anki (~3000 cards), Obsidian vault at ~/english-study, Git versioning
+- Tools: Anki (1.794 cards), Obsidian vault at ~/english-study, Git versioning
 
 **My current focus:**
 - Reducing Anki backlog (was 314 cards overdue)

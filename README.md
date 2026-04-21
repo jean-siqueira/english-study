@@ -5,7 +5,7 @@
 **Method:** Mairo Vergara (CIMV) + Anki + Daily output practice
 
 ## Current Status
-- Anki cards: ~3000
+- Anki cards: 1.794 (98% mature)
 - Backlog: reducing
 - Daily study: 30 min
 
