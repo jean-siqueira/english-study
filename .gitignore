@@ -1,6 +1,7 @@
 *.apkg
 *.anki2
 *.anki21
+*.colpkg
 .obsidian/workspace
 .obsidian/workspace.json
 .obsidian/cache
