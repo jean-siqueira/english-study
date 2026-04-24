@@ -93,6 +93,32 @@ Back: [Portuguese translation] + [word definition/synonyms]
 | `/analyze` | Analyze Anki export file |
 | `/progress` | Review weekly progress from tracker.md |
 | `/vocab` | Give 5 new professional vocabulary words |
+| `/sentence` | Process a sentence for Anki (see rules below) |
+
+## `/sentence` — Sentence Agent
+
+When Jean invokes `/sentence`, he will provide an English sentence and optionally a Portuguese translation. Detect the scenario and act accordingly:
+
+### Scenario 1 — Frase + tradução completa
+**Trigger:** Portuguese input has 4+ words (a full sentence).
+**Action:** Evaluate the translation. Is it correct and natural? Suggest improvements if needed. Confirm whether the sentence is good for Anki and which word/phrase is the target. Format the complete card.
+
+### Scenario 2 — Frase + só uma palavra ou expressão curta
+**Trigger:** Portuguese input is 1–3 words (a hint, not a full translation).
+**Action:** Complete the full Portuguese translation of the sentence. Confirm whether the word/expression provided fits the context. Format the complete Anki card.
+
+### Scenario 3 — Só a frase em inglês
+**Trigger:** No Portuguese provided.
+**Action:** Identify the most interesting target word or expression. Briefly explain the context and usage. Provide the full Portuguese translation. Format the complete Anki card.
+
+### Output format for all scenarios:
+```
+[brief evaluation or context note, in Portuguese]
+
+Front: [English sentence — target word in bold if possible]
+Back: [full Portuguese translation] | [short definition/synonyms in English]
+💡 Tip: [memory anchor — image, contrast, or real-world connection]
+```
 
 ## Language Policy
 
