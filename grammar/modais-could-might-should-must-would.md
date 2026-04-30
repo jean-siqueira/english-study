@@ -98,6 +98,13 @@
 > Quando eu era criança, a gente costumava brincar lá fora toda noite.
 > *(ação repetida no passado — similar a "used to")*
 
+**Tradução em português:** use o **imperfeito** ("ia", "comia", "fazia") — não o futuro do pretérito.
+> *Antonio's grandfather would go to the Count's house.*
+> O avô de Antonio **ia** à casa do Conde. ✅
+> O avô de Antonio **iria** à casa do Conde. ❌ *(soa condicional — "iria se...")*
+
+Dica: se a frase não tem uma condição implícita, é hábito → imperfeito, não condicional.
+
 ### 3. Pedido educado
 > *Would you help me with this?*
 > Você poderia me ajudar com isso? *(mais suave que "can you")*
