@@ -23,4 +23,8 @@ mindmap
       hábito passado
       pedido educado
       would have
+    SUPPOSED TO
+      expectativa externa / regra
+      was supposed to
+      reputação
 ```

@@ -1,4 +1,4 @@
-# Modais: could, might, should, must, would
+# Modais: could, might, should, must, would, supposed to
 
 ## Visão geral
 
@@ -9,6 +9,7 @@
 | **should** | expectativa / obrigação moral | deveria, deve |
 | **must** | obrigação forte / dedução lógica | deve (certeza), precisa |
 | **would** | condicional / hábito passado / pedido educado | iria, costumava, teria |
+| **supposed to** | expectativa externa / o que deveria ser | deveria, espera-se que |
 
 ---
 
@@ -132,6 +133,47 @@ Ambos expressam hábito no passado, mas:
 | *should have done* | deveria ter feito, mas não fez (arrependimento) |
 | *must have done* | quase certeza de que aconteceu (dedução) |
 | *would have done* | teria feito, mas algo impediu (intenção frustrada) |
+
+---
+
+## SUPPOSED TO
+
+### 1. O que deveria acontecer (expectativa / obrigação externa)
+> *You are supposed to wear a helmet.*
+> Você deveria usar capacete. *(regra, expectativa externa)*
+
+> *The meeting is supposed to start at 9.*
+> A reunião deveria começar às 9. *(é o esperado)*
+
+### 2. O que deveria ter acontecido mas não aconteceu (passado)
+> *He was supposed to call me.*
+> Ele deveria ter me ligado. *(não ligou — expectativa frustrada)*
+
+**Detalhe:** *was supposed to* implica que a coisa **não aconteceu**. Sem esse contexto de falha, use *should*.
+
+### 3. O que se diz / acredita sobre algo
+> *This road is supposed to be beautiful.*
+> Dizem que essa estrada é bonita. / Essa estrada tem fama de ser bonita.
+
+### Supposed to vs Should
+
+A confusão é comum porque os dois traduzem para "deveria". A diferença está na **origem da obrigação**:
+
+- **should** = julgamento **seu** — você acha que é o certo, recomenda, ou se arrepende
+- **supposed to** = expectativa **externa** — regra, acordo, função, o que outros esperam
+
+**Teste prático:** troque por "é o certo" vs "é o combinado":
+> *You should wear a helmet.* → é o certo usar capacete
+> *You are supposed to wear a helmet.* → é o combinado/obrigatório usar capacete
+
+**A armadilha maior — os dois com *have*:**
+
+| Expressão | Sentimento |
+|---|---|
+| *I should have called* | Era o certo, me arrependo — **pressão vem de mim** |
+| *I was supposed to call* | Havia expectativa/acordo — **pressão vem de fora** |
+
+**Regra:** pressão de dentro → *should*. Pressão de fora (regra, compromisso, expectativa alheia) → *supposed to*.
 
 ---
 
